@@ -1,0 +1,41 @@
+2020-07-04 12:01:07,233 INFO com.demo.weather.forecast.WeatherForecastDemoApplication [main] Starting WeatherForecastDemoApplication on LAPTOP-IOM45Q93 with PID 15788 (C:\Tech\workspace\weather-forecast-demo\target\classes started by Waheeda in C:\Tech\workspace\weather-forecast-demo)
+2020-07-04 12:01:07,233 DEBUG com.demo.weather.forecast.WeatherForecastDemoApplication [main] Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-07-04 12:01:07,233 INFO com.demo.weather.forecast.WeatherForecastDemoApplication [main] No active profile set, falling back to default profiles: default
+2020-07-04 12:01:08,977 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 9000 (http)
+2020-07-04 12:01:09,155 INFO org.springframework.web.context.ContextLoader [main] Root WebApplicationContext: initialization completed in 1841 ms
+2020-07-04 12:01:09,348 INFO com.demo.weather.forecast.WeatherForecastDemoApplication [main] Rest Template Bean Created--------
+2020-07-04 12:01:09,952 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [main] Initializing ExecutorService 'applicationTaskExecutor'
+2020-07-04 12:01:10,404 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 9000 (http) with context path ''
+2020-07-04 12:01:10,409 INFO com.demo.weather.forecast.WeatherForecastDemoApplication [main] Started WeatherForecastDemoApplication in 3.685 seconds (JVM running for 4.306)
+2020-07-04 12:01:47,975 INFO com.demo.weather.forecast.WeatherForecastDemoApplication [main] Starting WeatherForecastDemoApplication on LAPTOP-IOM45Q93 with PID 7244 (C:\Tech\workspace\weather-forecast-demo\target\classes started by Waheeda in C:\Tech\workspace\weather-forecast-demo)
+2020-07-04 12:01:47,975 DEBUG com.demo.weather.forecast.WeatherForecastDemoApplication [main] Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-07-04 12:01:47,975 INFO com.demo.weather.forecast.WeatherForecastDemoApplication [main] No active profile set, falling back to default profiles: default
+2020-07-04 12:01:50,082 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 9000 (http)
+2020-07-04 12:01:50,092 INFO org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+2020-07-04 12:01:50,092 INFO org.apache.catalina.core.StandardEngine [main] Starting Servlet engine: [Apache Tomcat/9.0.33]
+2020-07-04 12:01:50,255 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [main] Initializing Spring embedded WebApplicationContext
+2020-07-04 12:01:50,255 INFO org.springframework.web.context.ContextLoader [main] Root WebApplicationContext: initialization completed in 2211 ms
+2020-07-04 12:01:50,335 INFO com.demo.weather.forecast.WeatherForecastDemoApplication [main] Rest Template Bean Created--------
+2020-07-04 12:01:50,751 INFO springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping [main] Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-07-04 12:01:50,874 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [main] Initializing ExecutorService 'applicationTaskExecutor'
+2020-07-04 12:01:51,054 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [main] Context refreshed
+2020-07-04 12:01:51,069 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [main] Found 1 custom documentation plugin(s)
+2020-07-04 12:01:51,101 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [main] Scanning for api listing references
+2020-07-04 12:01:51,493 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 9000 (http) with context path ''
+2020-07-04 12:01:51,502 INFO com.demo.weather.forecast.WeatherForecastDemoApplication [main] Started WeatherForecastDemoApplication in 4.052 seconds (JVM running for 4.734)
+2020-07-04 12:20:38,644 INFO com.demo.weather.forecast.WeatherForecastDemoApplication [main] Starting WeatherForecastDemoApplication on LAPTOP-IOM45Q93 with PID 8684 (C:\Tech\workspace\weather-forecast-demo\target\classes started by Waheeda in C:\Tech\workspace\weather-forecast-demo)
+2020-07-04 12:20:38,646 DEBUG com.demo.weather.forecast.WeatherForecastDemoApplication [main] Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-07-04 12:20:38,648 INFO com.demo.weather.forecast.WeatherForecastDemoApplication [main] No active profile set, falling back to default profiles: default
+2020-07-04 12:20:40,237 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 9000 (http)
+2020-07-04 12:20:40,247 INFO org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+2020-07-04 12:20:40,247 INFO org.apache.catalina.core.StandardEngine [main] Starting Servlet engine: [Apache Tomcat/9.0.33]
+2020-07-04 12:20:40,348 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [main] Initializing Spring embedded WebApplicationContext
+2020-07-04 12:20:40,349 INFO org.springframework.web.context.ContextLoader [main] Root WebApplicationContext: initialization completed in 1625 ms
+2020-07-04 12:20:40,440 INFO com.demo.weather.forecast.WeatherForecastDemoApplication [main] Rest Template Bean Created--------
+2020-07-04 12:20:40,974 INFO springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping [main] Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-07-04 12:20:41,093 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [main] Initializing ExecutorService 'applicationTaskExecutor'
+2020-07-04 12:20:41,283 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [main] Context refreshed
+2020-07-04 12:20:41,319 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [main] Found 1 custom documentation plugin(s)
+2020-07-04 12:20:41,365 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [main] Scanning for api listing references
+2020-07-04 12:20:41,688 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 9000 (http) with context path ''
+2020-07-04 12:20:41,691 INFO com.demo.weather.forecast.WeatherForecastDemoApplication [main] Started WeatherForecastDemoApplication in 3.563 seconds (JVM running for 4.372)
